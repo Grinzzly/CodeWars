@@ -12,4 +12,5 @@ A place to store solutions as I work through CodeWars learning to code. Quality 
 ## Details
 * Name: Sergei Grin
 * Clan: Regula
+
 <a href="https://www.codewars.com/users/Grinzzly" target="_blank"><img src="https://www.codewars.com/users/Grinzzly/badges/large"></a>
