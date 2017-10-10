@@ -33,7 +33,7 @@ String.prototype.toAscii85 = function() {
     for (i = 0; i < res.length; i += 5)
         newres += res.substr(i, Math.min(5, res.length - i)) === '!!!!!' ? 'z' : res.substr(i, Math.min(5, res.length - i));
     return '<~' + newres + '~>';
-}
+};
 
 String.prototype.fromAscii85 = function() {
     console.log(this)
