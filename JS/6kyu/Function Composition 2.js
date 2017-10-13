@@ -1,0 +1,1 @@
+const compose = (...item) => items => item.reduceRight((accumulator, element) => element(accumulator), items);
