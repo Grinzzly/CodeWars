@@ -1,0 +1,1 @@
+const nouveau = (Constructor, ...args) => Reflect.construct(Constructor, args);
