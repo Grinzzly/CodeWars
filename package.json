@@ -1,0 +1,33 @@
+{
+  "name": "code-wars",
+  "version": "0.0.0",
+  "description": "A place to store solutions as I work through CodeWars learning to code",
+  "homepage": "",
+  "author": {
+    "name": "Grinzzly",
+    "url": "https://github.com/Grinzzly"
+  },
+  "scripts": {
+    "lint": "eslint src"
+  },
+  "keywords": [
+    "codeWars",
+    "javaScript",
+    "PHP",
+    "SQL",
+    "Python",
+    "Java",
+    "CoffeScript"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.9.1",
+    "babel-eslint": "^6.1.0",
+    "babel-loader": "^6.2.4",
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.3"
+  }
+}

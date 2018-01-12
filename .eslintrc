@@ -1,5 +1,4 @@
 {
-  "plugins": ["lodash"],
   "extends": ["airbnb"],
   "parser": "babel-eslint",
   "rules": {

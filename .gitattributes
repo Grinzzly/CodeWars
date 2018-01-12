@@ -1,0 +1,6 @@
+# Set the default behavior, in case someone don't have core.autocrlf set.
+* text=auto
+
+*.js text eol=lf
+*.json text eol=lf
+*.sh text oel=lf
