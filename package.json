@@ -8,7 +8,7 @@
     "url": "https://github.com/Grinzzly"
   },
   "scripts": {
-    "lint": "eslint src"
+    "lint": "eslint JS"
   },
   "keywords": [
     "codeWars",
@@ -19,7 +19,6 @@
     "Java",
     "CoffeScript"
   ],
-  "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.9.1",
     "babel-eslint": "^6.1.0",
