@@ -140,6 +140,5 @@ class Interpreter {
 }
 
 const brainLuck = (code, input) => {
-  const brainDuck = new Interpreter(code, input);
-  return brainDuck.run();
+  return (new Interpreter(code, input)).run();
 };
