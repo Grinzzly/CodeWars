@@ -22,7 +22,7 @@
   "devDependencies": {
     "babel-core": "^6.9.1",
     "babel-eslint": "^6.1.0",
-    "babel-loader": "^6.2.4",
+    "babel-loader": "^9.1.2",
     "eslint": "^3.19.0",
     "eslint-config-airbnb": "^14.1.0",
     "eslint-plugin-import": "^2.2.0",
